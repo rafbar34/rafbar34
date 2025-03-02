@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafbar34&label=Profile%20views&color=0e75b6&style=flat" alt="rafbar34" /> </p>
 
-- 🔭 I’m currently working on **Job-board - react/node.js** and information app with Open AI
 
-- 🌱 I’m currently learning **node.js, python**
+- 🌱 I’m currently learning **C#, .net, unity**
 
 
 <h3 align="left">Connect with me:</h3>
